@@ -1,0 +1,5 @@
+On fail, kus on ostu arvete read segamini. Sinu ülesanne on need read kokku koguda ja õigetesse arvetesse panna.
+
+Igal faili real on järgnevad väljad: arve number, toote nimi, ühiku hind, kogus ja kokku.
+
+Kui arves on mitu sama nimega toodet, siis võta need kokku.

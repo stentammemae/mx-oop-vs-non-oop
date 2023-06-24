@@ -1,0 +1,3 @@
+Sama ülesanne nagu OOP, ainult ilma klassideta.
+
+Arve rida peab olema järjekorras: toote nimi, ühiku hind, kogus ja kokku.
